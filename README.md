@@ -7,11 +7,11 @@ A falta de tempo se tornou comum no dia a dia das pessoas, com isso muitos pais,
 
 **Objetivo do Projeto**
 O objetivo do projeto, é criar um site, onde as pessoas vão poder:
-•	Praticar atividade física, acompanhada de um profissional
-•	Ter dicas de como realizar o exercício da forma correta
-•	Ter dicas de alimentação saudável
-•	Ter um acompanhamento com nutricionista
-•	Ter acesso a fisioterapeutas cadastrados no site, para quem precisar.
+1. Praticar atividade física, acompanhada de um profissional.
+2. Ter dicas de como realizar o exercício da forma correta
+3. Ter dicas de alimentação saudável
+4. Ter um acompanhamento com nutricionista
+5. Ter acesso a fisioterapeutas cadastrados no site, para quem precisar.
 
 **Justificativa**
 O intuito do site, é fazer com que as pessoas tenham acesso mais fácil a prática de exercícios físicos e a uma vida mais saudável, evitando problemas futuros, como a obesidade, problemas cardíacos, diabetes, etc. Ao mesmo tempo, dando mais tempo para realizar os outros compromissos.
